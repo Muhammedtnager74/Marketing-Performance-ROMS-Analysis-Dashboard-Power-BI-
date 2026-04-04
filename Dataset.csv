@@ -1,0 +1,151 @@
+Store ID,City,State,Sales Region,New Expansion,Marketing Spend,Revenue
+1,Peoria,Arizona,Region 2,Old,2601,48610
+2,Midland,Texas,Region 2,Old,2727,45689
+3,Spokane,Washington,Region 2,Old,2768,49554
+4,Denton,Texas,Region 2,Old,2759,38284
+5,Overland Park,Kansas,Region 2,Old,2869,59887
+6,Jacksonville,Florida,Region 2,Old,3357,46820
+7,Milwaukee,Wisconsin,Region 2,New,3166,36446
+8,Fresno,California,Region 2,Old,2486,31831
+9,Memphis,Tennessee,Region 1,Old,3710,67157
+10,Atlanta,Georgia,Region 1,New,3044,65447
+11,San Diego,California,Region 2,Old,2419,46652
+12,Atlanta,Georgia,Region 2,New,3900,20547
+13,Louisville,Kentucky,Region 2,Old,2755,65061
+14,Chicago,Illinois,Region 2,New,3732,30907
+15,Long Beach,California,Region 2,Old,3302,42087
+16,San Diego,California,Region 2,Old,2533,48218
+17,Tucson,Arizona,Region 2,New,2474,65726
+18,Phoenix,Arizona,Region 2,New,2182,34070
+19,Oakland,California,Region 1,New,2007,48705
+20,Houston,Texas,Region 2,Old,2715,42569
+21,Columbus,Ohio,Region 1,Old,3211,37386
+22,Jacksonville,Florida,Region 2,Old,2102,56611
+23,Columbus,Ohio,Region 2,New,2989,62718
+24,Houston,Texas,Region 2,Old,3588,64129
+25,Omaha,Nebraska,Region 2,Old,3264,63668
+26,San Jose,California,Region 2,Old,2181,27328
+27,Mesa,Arizona,Region 1,Old,2438,63786
+28,Louisville,Kentucky,Region 1,Old,3149,31495
+29,Long Beach,California,Region 1,Old,2660,26885
+30,Philadelphia,Pennsylvania,Region 1,New,3252,31164
+31,Las Vegas,Nevada,Region 1,Old,3977,39339
+32,New Orleans,Louisiana,Region 1,New,2186,42491
+33,Arlington,Texas,Region 1,New,3930,36859
+34,Dallas,Texas,Region 2,New,3019,38824
+35,El Paso,Texas,Region 1,Old,2973,28383
+36,Detroit,Michigan,Region 2,Old,3767,48404
+37,Denver,Colorado,Region 1,Old,2125,21229
+38,New Orleans,Louisiana,Region 1,New,3552,33498
+39,Houston,Texas,Region 1,Old,2440,41431
+40,Fresno,California,Region 1,New,2133,32806
+41,Tulsa,Oklahoma,Region 1,New,3415,35578
+42,Philadelphia,Pennsylvania,Region 1,Old,3907,37687
+43,Houston,Texas,Region 2,New,2454,61449
+44,Los Angeles,California,Region 2,Old,3893,22565
+45,Tucson,Arizona,Region 1,Old,2585,27078
+46,Tulsa,Oklahoma,Region 2,Old,3675,28377
+47,Jacksonville,Florida,Region 1,Old,3610,26053
+48,San Diego,California,Region 2,Old,2738,32311
+49,Los Angeles,California,Region 2,Old,2489,23211
+50,Fort Worth,Texas,Region 2,New,2373,25410
+51,New York City,New York,Region 2,New,2888,31946
+52,Atlanta,Georgia,Region 2,New,2807,53621
+53,Phoenix,Arizona,Region 2,New,3696,30612
+54,Chicago,Illinois,Region 1,New,2048,69049
+55,San Antonio,Texas,Region 2,Old,3162,32396
+56,Nashville,Tennessee,Region 1,Old,2032,60517
+57,New York City,New York,Region 1,New,3193,34661
+58,Detroit,Michigan,Region 2,Old,3572,29105
+59,Minneapolis,Minnesota,Region 2,Old,2323,49157
+60,Mesa,Arizona,Region 1,New,3594,53484
+61,San Jose,California,Region 1,Old,2759,56536
+62,Jacksonville,Florida,Region 2,Old,3188,29044
+63,New Orleans,Louisiana,Region 2,New,3931,42882
+64,San Diego,California,Region 2,Old,3433,46580
+65,San Antonio,Texas,Region 2,New,3611,69039
+66,Chicago,Illinois,Region 2,Old,3155,35194
+67,Fresno,California,Region 2,Old,2615,43244
+68,Memphis,Tennessee,Region 1,Old,2666,61954
+69,Tucson,Arizona,Region 2,Old,3641,45892
+70,San Diego,California,Region 2,Old,3615,67146
+71,Sacramento,California,Region 2,New,2102,24896
+72,Mesa,Arizona,Region 1,Old,2451,60770
+73,Phoenix,Arizona,Region 1,Old,3351,24561
+74,Dallas,Texas,Region 2,Old,3720,29712
+75,Phoenix,Arizona,Region 2,New,3593,63333
+76,Las Vegas,Nevada,Region 1,Old,3171,43158
+77,El Paso,Texas,Region 2,New,3567,45425
+78,Colorado Springs,Colorado,Region 2,Old,2031,68975
+79,Miami,Florida,Region 2,Old,2552,64225
+80,Omaha,Nebraska,Region 1,Old,3969,66230
+81,Los Angeles,California,Region 2,New,3353,23334
+82,Los Angeles,California,Region 2,Old,2244,58071
+83,Phoenix,Arizona,Region 1,Old,3288,27666
+84,Las Vegas,Nevada,Region 2,New,2540,66099
+85,Houston,Texas,Region 1,Old,3849,29677
+86,Columbus,Ohio,Region 1,Old,3844,21455
+87,Baltimore,Maryland,Region 1,New,3796,39562
+88,Miami,Florida,Region 1,Old,3460,69455
+89,Jacksonville,Florida,Region 1,New,3491,45157
+90,Charlotte,North Carolina,Region 1,New,2810,31749
+91,Oklahoma City,Oklahoma,Region 1,Old,2327,33458
+92,Charlotte,North Carolina,Region 2,New,2786,48545
+93,Philadelphia,Pennsylvania,Region 1,New,2461,53307
+94,Raleigh,North Carolina,Region 2,New,2821,35048
+95,Las Vegas,Nevada,Region 1,Old,3399,39925
+96,Baltimore,Maryland,Region 2,Old,2353,56619
+97,Raleigh,North Carolina,Region 1,New,3873,53732
+98,Tulsa,Oklahoma,Region 1,New,2103,34615
+99,Minneapolis,Minnesota,Region 2,Old,3342,35000
+100,Washington,District of Columbia,Region 1,Old,2926,64837
+101,Dallas,Texas,Region 1,Old,2864,22359
+102,New Orleans,Louisiana,Region 2,Old,3304,64797
+103,Arlington,Texas,Region 2,Old,2609,65780
+104,New York City,New York,Region 2,Old,3709,40228
+105,Albuquerque,New Mexico,Region 2,Old,3492,32738
+106,Tucson,Arizona,Region 2,Old,3983,46942
+107,Milwaukee,Wisconsin,Region 1,New,3471,53847
+108,Nashville,Tennessee,Region 2,Old,2974,38315
+109,Oklahoma City,Oklahoma,Region 2,New,2983,61366
+110,Fort Worth,Texas,Region 1,Old,2357,35753
+111,Baltimore,Maryland,Region 2,Old,3835,47356
+112,Chicago,Illinois,Region 1,Old,3566,38769
+113,Houston,Texas,Region 2,New,2726,59852
+114,Austin,Texas,Region 1,New,2259,40360
+115,Austin,Texas,Region 1,Old,2632,21442
+116,San Francisco,California,Region 1,New,3023,61346
+117,Charlotte,North Carolina,Region 1,Old,2943,22025
+118,Fort Worth,Texas,Region 2,New,3009,28954
+119,Chicago,Illinois,Region 1,Old,2935,42051
+120,Oakland,California,Region 2,Old,2962,63430
+121,New Orleans,Louisiana,Region 2,Old,2276,69744
+122,Tulsa,Oklahoma,Region 1,Old,2462,50101
+123,Philadelphia,Pennsylvania,Region 1,New,2230,48571
+124,San Antonio,Texas,Region 2,New,3676,47720
+125,Oklahoma City,Oklahoma,Region 2,Old,3784,67903
+126,Oakland,California,Region 2,Old,2247,20403
+127,Virginia Beach,Virginia,Region 1,New,2241,39000
+128,Raleigh,North Carolina,Region 2,New,2443,40324
+129,Kansas City,Missouri,Region 1,New,2855,46028
+130,Oakland,California,Region 2,Old,3327,43712
+131,San Antonio,Texas,Region 2,New,3221,28163
+132,Indianapolis,Indiana,Region 1,Old,2204,66054
+133,Raleigh,North Carolina,Region 2,New,2915,63780
+134,El Paso,Texas,Region 2,Old,3251,35506
+135,Raleigh,North Carolina,Region 1,New,3979,64476
+136,Austin,Texas,Region 1,New,3785,63286
+137,Las Vegas,Nevada,Region 1,Old,2821,42238
+138,El Paso,Texas,Region 1,Old,2829,61397
+139,Albuquerque,New Mexico,Region 1,New,2297,54330
+140,Oklahoma City,Oklahoma,Region 2,New,2497,62457
+141,Las Vegas,Nevada,Region 1,Old,2093,46430
+142,New Orleans,Louisiana,Region 2,Old,2152,50105
+143,Indianapolis,Indiana,Region 1,Old,3857,40027
+144,Louisville,Kentucky,Region 1,Old,2179,36303
+145,Long Beach,California,Region 1,New,3670,23322
+146,Paterson,New Jersey,Region 1,New,2251,34603
+147,Brownsville,Texas,Region 2,New,3675,63148
+148,Rockford,Illinois,Region 1,New,2648,43377
+149,College Station,Texas,Region 2,New,2994,22457
+150,Thousand Oaks,California,Region 2,New,2431,40141
